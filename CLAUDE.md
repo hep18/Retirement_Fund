@@ -45,3 +45,21 @@ Implications for the workflow:
 - The "moderate risk" language in the original workflow system prompt is overridden by this account-specific instruction. Treat risk tolerance as **high / speculative** for this account specifically.
 - Hard rules above still apply — sourcing, thesis structure, downside, horizon, confidence. High risk tolerance is not permission to skip diligence.
 - Continue to default to Hold/Watch when evidence is genuinely thin. Risk tolerance affects *position sizing and idea threshold*, not the bar for evidence.
+
+## Risky Trades folder (as of 2026-05-14)
+
+**Folder:** `/Risky Trades/` (at repo root, with the space — that is the user-specified name). The folder contains *only* dated risky-trades tables; no other artifacts belong here.
+
+**Trigger:** Every time the user sends a Morning Brew newsletter, produce a new file in this folder.
+
+**File naming:** `YYYY-MM-DD-risky-trades.md` matching the newsletter date.
+
+**Content requirements per file:**
+- One table combining (a) the day's Morning Brew-surfaced names and (b) politician-trade disclosures from `/investment-notes/politician-trades-tracker.md`.
+- Each row must include: ticker, signal source(s), current price + trend read, entry vetting (is *now* a good time to enter?), risk, confidence, and a concrete action sized for the user's actual account (currently ~$1,123).
+- **Trend vetting is required**, not optional. For each candidate, pull recent price action and answer "is this a good entry today, or is the move already priced in?" Categories: Overextended / Breakout / Consolidating / Pullback / Trending.
+- **Politician trades must be vetted, not mirrored.** A stale 45-day-old buy at a stale price is a coin flip; the trend read is what makes it actionable.
+- Flag names that don't actually fit the *risky* mandate (e.g., dividend-yield plays from Pelosi like AB) — log them but recommend skipping the folder, not the signal.
+- End with a "Standout call today" section identifying the single best risky idea (or note explicitly if none clears the bar).
+
+**Hard rules still apply:** sourcing, thesis, downside, horizon, confidence. Trading frictions matter on a $1k account.
