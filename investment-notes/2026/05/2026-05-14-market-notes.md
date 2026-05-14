@@ -136,7 +136,9 @@ This is the **first** daily note in `/investment-notes/`. No prior dates exist t
 2. **Brokerage / exchange?** Needed to assess real trading-cost friction on small trims (especially for BONK).
 3. **Are you comfortable with 98% single-name concentration?** If not, I can put together a staged de-risking plan tied to RKLB price levels and event milestones (Q2 print in August, Neutron static fire, etc.) — rather than reacting to a daily newsletter.
 
-## 7. Action Summary
+## 7. Low-Risk Action Summary (Conservative Path)
+
+This is the path I'd take given the workflow's stated "moderate risk" tolerance and the hard rule against newsletter-driven trades. Defaults to Hold/Watch.
 
 | Ticker | Action | Suggested $ | Reason | Confidence |
 |---|---|---|---|---|
@@ -147,6 +149,56 @@ This is the **first** daily note in `/investment-notes/`. No prior dates exist t
 | MP | Watch | $0 | Rare-earth narrative; no diligence performed today | 2/10 |
 | MSFT | Watch | $0 | Only Mag-7 down; LinkedIn cuts; needs deeper read | 3/10 |
 | (Cash) | Hold | $0 | None to deploy; flagged need for buffer | — |
+
+## 8. Aggressive Action Summary (Higher-Risk Path)
+
+> **Read this carefully.** These ideas use a thinner evidence threshold than §7. They are speculative by design. The workflow's hard rules still apply: every idea below has a thesis from primary or wire-service sources, a downside, a horizon, and a confidence score. None of these is a recommendation to act blindly. On a $1,123 account, a single bad aggressive trade can erase 10-20% of the book; size with that in mind.
+>
+> **Funding constraint.** You have ~$0 cash. Every aggressive move below requires trimming RKLB. The aggressive case for trimming is twofold: (1) lock in some of the +46% recent run, (2) free capital for asymmetric macro setups. The aggressive case *against* trimming is that you'd be selling a fundamentally accelerating business (Q1 +63.5% revenue YoY, $2.22B backlog, $190M DoD HASTE order, Neutron Q4 2026 catalyst) into strength.
+
+### Aggressive idea A — Rotate ~$250 of RKLB into oil/energy exposure (XLE or USO)
+- **Thesis:** Iran war has driven WTI ~$102 / Brent ~$108 (CNBC 2026-05-12). IEA characterized this as the "largest supply disruption in the history of the global oil market" with Hormuz disrupting ~20% of global supply (CNBC 2026-05-13 IEA piece). Analyst consensus: Brent stays $90-100 through year-end *even if Hormuz reopens in early June*. April PPI energy +7.8%, gasoline +15.6% (BLS) confirms the pass-through is already happening. XLE (Energy Select Sector SPDR) is the lower-volatility expression; USO (US Oil Fund) is the higher-beta commodity-direct expression.
+- **Specific sizing:** Trim ~2 shares RKLB (~$248) → buy ~2 sh XLE (~$95-100/sh range, unverified intraday) **or** ~10 sh USO (~$80-85/sh range, unverified intraday). Note: XLE/USO share prices are *unverified* — confirm before trading.
+- **Downside:** Hormuz reopens earlier than expected and oil snaps back toward $80. Demand destruction from a recession scenario could pull oil down independently. USO has documented contango decay over multi-month holds.
+- **Horizon:** 2-6 months. This is a macro-event-driven trade, not a long-term hold.
+- **Confidence: 5/10.** Macro thesis is strong; instrument selection and timing are the risk.
+- **Why aggressive, not §7:** Acting on a single newsletter cycle + 2-week-old data violates the conservative default. The thesis is real but the entry is reactive.
+
+### Aggressive idea B — Close BONK (~$27) to cash
+- **Thesis:** BONK is a sentiment-only memecoin with no cash flow anchor. Largest Solana memecoin by holders (~800k addresses) per CoinGecko, but that's a popularity stat not a fundamentals stat. Holding zero-thesis assets while running 98% concentration in RKLB is the opposite of an aggressive portfolio — it's a sloppy one. Closing it puts $27 to work (or to cash) and cleans the book.
+- **Specific sizing:** Sell entire BONK position (~$27). Net to cash after exchange fees.
+- **Downside:** BONK 10x's on a Solana-ecosystem narrative shift and you miss it. On $27, the missed upside is $243 in a 10x scenario — not portfolio-changing.
+- **Horizon:** Immediate.
+- **Confidence: 6/10.** This is aggressive only in the "willing to incur a small fee to clean up dust" sense.
+- **Why aggressive, not §7:** §7 said the position is below the action threshold. §8 disagrees: house-keeping has long-tail value, and crypto exchange fees are still smaller than the optionality cost of holding a position with no thesis.
+
+### Aggressive idea C — Trim RKLB ~$150 → NVDA on a summit chip-easing surprise
+- **Thesis:** Huang on Air Force One is unusually direct corporate-diplomatic theatre. Trump administration has explicit incentive to surface a corporate-level "win" (CFR summit preview, Foreign Policy summit preview). Any easing of China-chip-export controls — even partial — extends the AI-capex narrative that drove yesterday's record close. NVDA closed +2% yesterday on chip-rebound flows (CNBC market wrap).
+- **Specific sizing:** Trim ~1.2 sh RKLB (~$149) → buy fractional NVDA. NVDA intraday price *unverified* — confirm before trading.
+- **Downside:** Summit produces a framework, not a deal. NVDA is already at record highs and trades at ~30-40x forward earnings (unverified, needs primary check). Any negative Taiwan headline from the summit could trigger a sharp single-day drawdown. Hot PPI is also a discount-rate headwind for high-multiple growth.
+- **Horizon:** 1-3 months. This is an event-driven trade around the summit readout.
+- **Confidence: 4/10.** Lower than ideas A and B because newsletter-cycle event trades have a worse track record than macro-cycle trades.
+- **Why aggressive, not §7:** Newsletter-driven; chasing a record high; no independent diligence on NVDA filings done today.
+
+### Aggressive ideas I considered and rejected
+
+- **Levered ETFs (TQQQ, SOXL, NUGT, etc.).** Daily-reset decay makes them inappropriate for any hold longer than days. Not recommending on a $1k account.
+- **Options on RKLB or NVDA.** $1,123 is too small for options sizing that isn't either trivial or catastrophic. Spreads and bid-ask alone consume most of the edge.
+- **Adding to BONK or other memecoins.** No thesis, only sentiment. Aggressive ≠ random.
+- **MP Materials (rare earths) on the summit angle.** Real macro thesis, but I haven't read the most recent 10-Q. Adding without diligence is not "aggressive," it's negligent.
+
+### Aggressive Action Table
+
+| Ticker | Action | Suggested $ | Reason | Confidence |
+|---|---|---|---|---|
+| RKLB | Trim ~2 sh | -$248 | Lock gains, fund macro rotation | 5/10 |
+| XLE *or* USO | Buy | +$248 | Direct Iran-war oil exposure; IEA / CNBC sources | 5/10 |
+| BONK | Sell all | -$27 | Close zero-thesis dust position | 6/10 |
+| RKLB | Trim ~1.2 sh | -$149 | Fund event-driven AI-chip trade | 4/10 |
+| NVDA | Buy | +$149 | Trump-Xi chip easing potential | 4/10 |
+| Cash | Build | +$27 (from BONK) | Tactical buffer | — |
+
+**Combined aggressive book if all three executed:** ~$397 RKLB trimmed (still ~$700 / ~62% RKLB), ~$248 energy, ~$149 NVDA, ~$27 cash buffer. RKLB drops from 98% → 62% concentration; meaningful de-risking with directional macro tilts. Total fee/spread/slippage drag on a $1k account is non-trivial — call it ~$5-15 depending on broker.
 
 ---
 
