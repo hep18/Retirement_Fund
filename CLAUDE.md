@@ -25,6 +25,16 @@ Both §7 and §8 should include an action table. §8 must include explicit specu
 - Size suggestions for the actual account balance, not a hypothetical larger one.
 - Account for trading frictions on small trims.
 
+## Politician / congressional trades as a secondary signal
+
+Each day, also surface politician trading signals as a Watch input:
+
+- **Files:** `/investment-notes/politician-trades-tracker.md` is the running log. Append new entries; cross-reference current holdings in the daily note.
+- **Primary X accounts the user follows:** @InTheAssembly, @QuiverQuant, @pelositracker.
+- **Direct access limitation:** X profiles and the major aggregator sites (QuiverQuant, Capitol Trades, Unusual Whales, pelositracker.app) return 403 to WebFetch. Workaround: (a) WebSearch for recent congressional trade news on names in our book + names in today's newsletter, (b) user pastes specific tweets / trades they want researched.
+- **Treatment:** Politician trades are a secondary signal, never the sole basis for a trade. Apply the same hard rules: thesis, downside, horizon, confidence. Note the 45-day disclosure lag explicitly.
+- **In the daily note:** Cross-reference current holdings vs. recent disclosed trades in §4 (Deeper Research) or §8 (Aggressive). Surface contradictions and alignments. Don't auto-mirror trades.
+
 ## Account risk profile (as of 2026-05-14)
 
 The user has explicitly stated this is their **designated risky / speculative account**. They hold separate, less-risky accounts elsewhere for stable / retirement capital.

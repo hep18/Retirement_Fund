@@ -179,6 +179,7 @@ This is the path I'd take given the workflow's stated "moderate risk" tolerance 
 - **Horizon:** 1-3 months. This is an event-driven trade around the summit readout.
 - **Confidence: 4/10.** Lower than ideas A and B because newsletter-cycle event trades have a worse track record than macro-cycle trades.
 - **Why aggressive, not §7:** Newsletter-driven; chasing a record high; no independent diligence on NVDA filings done today.
+- **Politician-trade cross-reference (secondary signal, not a basis for the trade):** Pelosi household has been a repeated NVDA buyer through 2025-26; most recent disclosed event Jan 16 2026 (50 calls exercised at $80 strike, +5,000 sh). Counter-signal: Rep. Daniel Meuser disclosed an Apr 14 2026 partial NVDA sale and has been a consistent seller across 2026 (his sell-track-record is poor, per Yahoo Finance). Net: mild alignment. See `/investment-notes/politician-trades-tracker.md`.
 
 ### Aggressive ideas I considered and rejected
 
