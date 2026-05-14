@@ -22,5 +22,16 @@ Both §7 and §8 should include an action table. §8 must include explicit specu
 - Cite every claim that isn't common knowledge. "Source:" for facts; "Inference:" for reasoning.
 - Mark unverified prices / numbers as *unverified*.
 - Never recommend a trade based on the newsletter alone — even in §8, the thesis must be backed by primary or wire-service sources independent of the Brew.
-- Size suggestions for the actual $1,123 account, not a hypothetical larger one.
+- Size suggestions for the actual account balance, not a hypothetical larger one.
 - Account for trading frictions on small trims.
+
+## Account risk profile (as of 2026-05-14)
+
+The user has explicitly stated this is their **designated risky / speculative account**. They hold separate, less-risky accounts elsewhere for stable / retirement capital.
+
+Implications for the workflow:
+- **§8 (Aggressive) is the primary recommendation path for this account**, not the alternate path. §7 (Low-Risk) is retained as a counterfactual baseline so the user can see the conservative read, but recommendations should lead with §8.
+- **Stop flagging high single-name concentration as if it were an error.** A risk-account is *expected* to run concentrated. Do flag concentration when it crosses a thesis-driven threshold (e.g., one position > 70% of book), but frame it as a *position-management* observation, not a *risk-tolerance* mismatch.
+- The "moderate risk" language in the original workflow system prompt is overridden by this account-specific instruction. Treat risk tolerance as **high / speculative** for this account specifically.
+- Hard rules above still apply — sourcing, thesis structure, downside, horizon, confidence. High risk tolerance is not permission to skip diligence.
+- Continue to default to Hold/Watch when evidence is genuinely thin. Risk tolerance affects *position sizing and idea threshold*, not the bar for evidence.
