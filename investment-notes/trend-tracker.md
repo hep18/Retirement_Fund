@@ -4,6 +4,47 @@ Recurring themes and signals tracked across daily notes. New entries appended at
 
 ---
 
+## 2026-05-15
+
+### Day-over-day changes vs. 2026-05-14
+
+| Theme | Yesterday | Today | Δ |
+|---|---|---|---|
+| AI infrastructure capex | High | High+ | ↑ Cerebras +68% Day 1 IPO; Warsh AI-productivity framing |
+| Iran/Hormuz oil shock | High | High-tight | ≈ Headlines softer (summit Hormuz statement), market behavior unchanged (oil flat) |
+| Sticky inflation / Fed dilemma | High | High | ≈ Warsh in, FedWatch <2.8% cut prob, 10-yr -2bps polite reaction |
+| US-China stabilization | Medium | Medium-tight | ↓ Day-2 produced atmospherics, no concrete deal on Iran or BA 500-jet |
+| Defense / hypersonic | Medium | Medium | ≈ No new RKLB news |
+| AI labor displacement | Low-Med | Low-Med | ≈ Netflix-AI-animation studio in Brew tail, minor data point |
+
+### New themes added today
+
+| Theme | Direction | First seen | Strength | Notes |
+|---|---|---|---|---|
+| EV-OEM retreat now a formal trend | New | 2026-05-15 | Medium-High | Honda $9-10B EV writedown; cancels 2040 phase-out; joins Ford, GM. Bearish legacy-OEM EV programs; bullish hybrid leaders (TM) and pure-BEVs (TSLA, BYD) by competitor elimination. |
+| AI IPO window reopens | New | 2026-05-15 | High | Cerebras +68% Day 1. Brew explicitly notes OpenAI / Anthropic / SpaceX could follow. Frothy AI-compute appetite extends NVDA / AVGO multiple narrative short-term; yellow flag medium-term. |
+| Adani charge-drop / US-friendly cross-border quid-pro-quo | New | 2026-05-15 | Low | NYT reports DOJ dropping Adani fraud charges in exchange for $10B US investment. Read-through for India infrastructure / data center plays vague. |
+| Klarna BNPL profitability | New | 2026-05-15 | Low | KLAR +20% on first profitable post-IPO quarter. Read-through for AFRM. Not in our universe. |
+
+### Repeated names across days
+
+| Ticker | First date | Today's read |
+|---|---|---|
+| NVDA | 2026-05-14 (§3, §8 idea C executed) | Reinforced — Cerebras tailwind + Warsh AI-productivity narrative. Hold; don't add at ATH. |
+| BA | 2026-05-14 (§3, Risky Trades standout) | Catalyst slipping — Day 2 summit ended without formal 500-jet announcement. Defer execution; wait for weekend headlines. |
+| MP | 2026-05-14 (§3) | Unchanged — sideways post-+250%-YTD; better entry remains a pullback. |
+| XLE | 2026-05-14 (§8 idea A executed) | Held. Summit didn't impair thesis; market behavior confirms. |
+| RKLB | (existing holding) | Held. No news today. |
+
+### Signals to watch into next week
+- **BA-China 500-jet deal announcement.** Catalyst window narrowing post-summit. If announced over the weekend → buy trigger. If silent through Monday → step back to Watch.
+- **Hormuz traffic data.** IEA cited 4 mbpd disruption March-April. Any return to baseline shows up first in daily tanker tracking. Watch S&P Global / IEA updates.
+- **CBRS price action.** Watching for a 25-30% retracement off $311 close ($220-240 range) as a higher-quality entry.
+- **CPI April print (next BLS schedule date — typically mid-month).** Brew quoted CPI at 3.8%; verify against BLS release. Hot reprint would further close the Warsh-cut window.
+- **Pelosi household post-Q1 PTR filings.** Next disclosure window opens ~Q2 if any trades occurred. Cross-reference any NVDA / energy positioning.
+
+---
+
 ## 2026-05-14 — Initial entry
 
 ### Active themes
@@ -27,4 +68,4 @@ Recurring themes and signals tracked across daily notes. New entries appended at
 - **RKLB Neutron debut.** Currently guided for Q4 2026. Slippage or success is binary catalyst for the stock.
 
 ### Repeated names / sectors so far
-- N/A (this is the first entry; tracking begins today).
+- N/A (first entry; tracking begins today).
